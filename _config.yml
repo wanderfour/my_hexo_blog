@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ann's 小站
+title: Ann7 小站
 subtitle: ''
 description: ''
 keywords:
-author: Ann 7
+author: Ann7
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.ann7.top/
+url: http://47.108.236.228/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
